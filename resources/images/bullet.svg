@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path Copy</title>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-119.000000, -2495.000000)" fill="#FF2145" fill-rule="nonzero" id="Features">
+            <g transform="translate(119.000000, 840.000000)">
+                <g id="Feature-Prop" transform="translate(0.000000, 1411.000000)">
+                    <g id="Copy" transform="translate(0.000000, 1.000000)">
+                        <g id="List" transform="translate(0.000000, 232.000000)">
+                            <g id="Group-11">
+                                <path d="M5.82562488,13.0137768 C4.57788503,11.8016336 2.92962183,11.0881143 1.19189136,11.0078725 C1.07852785,11 0.965164338,11 0.851800827,11 C0.381978413,11 0.000868433297,11.3804047 8.97060204e-14,11.8502263 L8.97060204e-14,18.1481992 C8.97060204e-14,18.6186358 0.38136422,19 0.851800827,19 L7.14977367,19 C7.62021027,19 8.00157724,18.6186358 8.00157724,18.1481992 C8.00327153,16.2123148 7.21781643,14.3589363 5.82562488,13.0137768 Z" id="Path-Copy" transform="translate(4.000789, 15.000000) scale(-1, 1) translate(-4.000789, -15.000000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
